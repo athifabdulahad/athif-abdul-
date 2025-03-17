@@ -1,0 +1,11 @@
+p {
+    font-size: 24px;
+    font-weight:bold;
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-image: url(gambar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
